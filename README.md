@@ -96,16 +96,10 @@ shared FolderPath = "<path-to-the-ledger-folder-in-this-repo>"
 
 ## Files
 
-<<<<<<< HEAD
 - `cohort_model.xlsx` — the working model: Power Query load, Power Pivot model, dashboard, and the per-metric worksheets
 - `ledger/saas_mrr_ledger.csv` — the data, one row per customer per active month
-- `SaaS_Cohort_Model_Documentation.pdf` — the full write-up in plain language, with the charts drawn in
+- `Saas_Cohort_Model_Documentation_Report.pdf` (and `.docx`) — the full write-up in plain language, with the charts drawn in
 - `README.md` — this file: the numbers, the DAX, the M, and the build steps
-=======
-- `cohort_model.xlsx`: the working model
-- `saas_mrr_ledger.csv`: the data, one row per customer per active month
-- `Project_E_Documentation_Report.pdf`: the full write-up in plain language, with the charts drawn in
->>>>>>> 14dced6ac3645467ea47931717c6a110724dc37a
 
 ## A note on the data
 
